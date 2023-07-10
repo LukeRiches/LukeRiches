@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My Name is Luke Riches, I'm 20 and from Leeds. 🌱 I’m currently learning JavaScript and will soon be starting a skills bootcamp in Software Devlopment with NorthCoders! I can't wait to start on my coding journey and create meaningful projects i'm passioante about, Welcome to my Profile!
 
 <!--
 **LukeRiches/LukeRiches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
